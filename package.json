@@ -1,0 +1,37 @@
+{
+  "name": "tryagain",
+  "version": "0.0.1",
+  "description": "TryAgain's selfbot.",
+  "main": "Main.js",
+  "scripts": {
+    "start": "node Main.js"
+  },
+  "dependencies": {
+    "axios": "^0.21.1",
+    "center-align": "^1.0.1",
+    "colors": "^1.4.0",
+    "discord": "^0.8.2",
+    "discord.js": "^11.6.4",
+    "discordrpcgenerator": "^1.2.0",
+    "enmap": "^5.3.3",
+    "express": "^4.17.1",
+    "hastebin-gen": "^2.0.5",
+    "https": "^1.0.0",
+    "node-fetch": "^2.6.1",
+    "os": "^0.1.1",
+    "path": "^0.12.7",
+    "phin": "^3.5.0"
+  },
+  "engines": {
+    "node": "10.x"
+  },
+  "repository": {
+    "url": "https://glitch.com/edit/#!/hello-express"
+  },
+  "license": "MIT",
+  "keywords": [
+    "node",
+    "glitch",
+    "express"
+  ]
+}
