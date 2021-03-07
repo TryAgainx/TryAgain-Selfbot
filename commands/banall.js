@@ -5,13 +5,6 @@ exports.run = async (client, message, args) => {
     message.delete();
     console.log(colors.green("  * Iniciando o ban-all."));
 
-	message.guild.members.forEach(mb => {
-		if (mb == client.user.id || mb.user.bot) return true;
-		else {
-			message.channel.send(`cdl!ban ${mb}`)
-		}
-	})
-
     message.guild.members.filter(m => m.bannable).forEach(mb => {
         if (mb == client.user.id || mb.user.bot) return true; 
         else {
