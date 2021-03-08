@@ -16,8 +16,7 @@
  ## Developers:
  
  - Lead-developer: Nicko
- - Other developers: Kyan (KYAAN'1777).
- 
+
 -----
  
   ## Help: 
