@@ -27,3 +27,4 @@
   - '.purge' Kick users with 1 day of innactivity
   - '.canais' Create various channels (raid channels).
   - And... More commands 'll be added soon.
+![alt text](https://cdn.discordapp.com/attachments/817854783347359805/818944523572215848/try.png)
